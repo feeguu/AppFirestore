@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppFirestore</string>
+    <string name="edtNome">Digite seu nome</string>
+    <string name="edtEndereco">Digite seu endereco</string>
+    <string name="edtBairro">Digite seu bairro</string>
+    <string name="edtCep">Digite seu CEP</string>
+    <string name="btnCadastrar">Cadastrar</string>
+</resources>
