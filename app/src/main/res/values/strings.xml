@@ -5,4 +5,9 @@
     <string name="edtBairro">Digite seu bairro</string>
     <string name="edtCep">Digite seu CEP</string>
     <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnDeletar">Deletar</string>
+    <string name="btnAtualizar">Atualizar</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="dados">ID: %1$s \nNome: %2$s \nCEP: %3$s \nBairro: %4$s \nEndereco: %5$s\n\n\n</string>
 </resources>

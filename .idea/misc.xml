@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/AppFirestore/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/activity_create.xml" value="0.2630057803468208" />
+        <entry key="app/src/main/res/layout/activity_delete.xml" value="0.32083333333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_read.xml" value="0.32083333333333336" />
+        <entry key="app/src/main/res/layout/activity_update.xml" value="0.32083333333333336" />
       </map>
     </option>
   </component>

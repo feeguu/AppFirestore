@@ -3,33 +3,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:layout_gravity="center"
-    android:gravity="center">
-
-    <EditText
-        android:id="@+id/edtNome"
-        android:hint="@string/edtNome"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-    <EditText
-        android:id="@+id/edtEndereco"
-        android:hint="@string/edtEndereco"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-    <EditText
-        android:id="@+id/edtBairro"
-        android:hint="@string/edtBairro"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-    <EditText
-        android:id="@+id/edtCep"
-        android:hint="@string/edtCep"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+    android:gravity="center"
+>
     <Button
-        android:id="@+id/btnCadastrar"
-        android:text="@string/btnCadastrar"
+        android:id="@+id/btnNavegarCadastrar"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="@string/btnCadastrar"/>
+    <Button
+        android:id="@+id/btnNavegarConsultar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnConsultar"/>
+
+    <Button
+        android:id="@+id/btnNavegarDeletar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnDeletar" />
+
+    <Button
+        android:id="@+id/btnNavegarEditar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnAtualizar" />
 
 </LinearLayout>
