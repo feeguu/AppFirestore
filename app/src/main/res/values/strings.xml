@@ -10,4 +10,8 @@
     <string name="btnAtualizar">Atualizar</string>
     <string name="btnVoltar">Voltar</string>
     <string name="dados">ID: %1$s \nNome: %2$s \nCEP: %3$s \nBairro: %4$s \nEndereco: %5$s\n\n\n</string>
+    <string name="edtSelecionarID">Selecione o ID do item que deseja excluir</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="procurar">Procurar</string>
+    <string name="id_da_pessoa">ID da pessoa</string>
 </resources>
